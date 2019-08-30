@@ -24,4 +24,4 @@ En este modo de juego básico, la velocidad del automóvil es proporcional a las
 - ×	1 3D Switch grip by Mario Rosas https://www.thingiverse.com/thing:3497960
 
 **Esquema
-<img src="https://github.com/McOrts/M5StickC_Nixie_tube_Clock/blob/master/images/M5Stick-C.jpg" width="250" align="right" />
+<img src="https://github.com/Makespace-Mallorca/led-race/blob/master/imagenes/ledrace_pcbless_bb_tYJ8p5UVtv.jpg"/>
